@@ -36,9 +36,9 @@ Follow the step-by-step process to complete the verification.
 PS:
 Did not create the following screens.
 
-1️⃣ Login Screen
+1️⃣ Login Screen (I just added tabs, they do not change the login pathway)
 
-2️⃣ Choose officer type Screen
+2️⃣ Choose officer type Screen (This page is just recording the officer type, does not change anything)
 
 3️⃣ Terms & Conditions Screen
 
